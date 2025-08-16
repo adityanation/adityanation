@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Sinha</h1>
-<h3 align="center">A Knowledge Enthusiast and One-time Line Coder</h3>
+<h3 align="center">A Stoic Coder</h3>
 
 - 🌱 I’m currently learning **AI-ML**
 
